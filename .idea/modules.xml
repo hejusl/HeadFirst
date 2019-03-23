@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeerSong/BeerSong.iml" filepath="$PROJECT_DIR$/BeerSong/BeerSong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dog/Dog.iml" filepath="$PROJECT_DIR$/Dog/Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeadFirst.iml" filepath="$PROJECT_DIR$/HeadFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie/Movie.iml" filepath="$PROJECT_DIR$/Movie/Movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhraseOMatic/PhraseOMatic.iml" filepath="$PROJECT_DIR$/PhraseOMatic/PhraseOMatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoolPuzzleOne/PoolPuzzleOne.iml" filepath="$PROJECT_DIR$/PoolPuzzleOne/PoolPuzzleOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shufflel/Shufflel.iml" filepath="$PROJECT_DIR$/Shufflel/Shufflel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex01/ex01.iml" filepath="$PROJECT_DIR$/ex01/ex01.iml" />
+    </modules>
+  </component>
+</project>
